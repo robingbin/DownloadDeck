@@ -1,0 +1,8 @@
+.venv/
+build_out/
+release/
+__pycache__/
+*.pyc
+com.downloaddeck.bridge.json
+*.ddpart
+*.log

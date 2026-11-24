@@ -1,0 +1,26 @@
+DownloadDeck - quick setup
+==========================
+
+1. Keep this whole folder together. Put it somewhere permanent, for example
+   C:\Apps\DownloadDeck  (don't run it from inside the zip).
+
+2. Double-click DownloadDeck.exe
+   - Windows may say "Windows protected your PC" (the app isn't code-signed).
+     Click "More info" -> "Run anyway".
+   - On first start it asks whether to create a desktop shortcut and start
+     with Windows. Say Yes.
+
+3. Add the browser extension (Chrome, Edge or Brave):
+   a. Open  chrome://extensions   (Edge: edge://extensions)
+   b. Turn ON "Developer mode" (top-right)
+   c. Click "Load unpacked" and choose the "chrome-extension" folder
+      that is inside this DownloadDeck folder
+   d. Click the puzzle icon in the toolbar and pin "DownloadDeck Integration"
+   e. Reopen or refresh your open tabs
+
+4. Done. Hover over any video for the green "Download this video" button,
+   and normal browser downloads go to DownloadDeck automatically.
+
+Don't move or rename this folder after loading the extension -
+the browser loads the extension from here every time it starts.
+If you do move it, repeat step 3.
